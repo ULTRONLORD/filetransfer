@@ -1,7 +1,7 @@
 # 🛜📁Network File Transfer
 
 ## Overview
-Network File Transfer is a Python-based command-line tool designed to facilitate easy and secure file transfers between devices connected to the same network. Whether you need to share files between your computer or a coursemate especially.This project provides a safe solution.
+Network File Transfer is a Python-based command-line tool designed to facilitate easy and secure file transfers between devices connected to the same network. Whether you need to share files between your computer or a coursemate especially. This project provides a safe solution.
 
 ## Features
 - **Command Line Interface (CLI)👨‍💻:** Effortlessly transfer files through a simple and intuitive command-line interface.
@@ -14,12 +14,12 @@ Follow these steps to get started with the Network File Transfer project:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/network-file-transfer.git
+    git clone https://github.com/parachurami1/network-file-transfer.git
     ```
 
 2. **Navigate to the Project Directory:**
     ```bash
-    cd network-file-transfer
+    cd filetransfer
     ```
 
 3. **Run the file from the command line "python sender.py [filename]"**
